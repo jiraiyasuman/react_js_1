@@ -1,0 +1,13 @@
+body {
+    background: #00b09b;
+    min-height: 100vh;
+    padding-top: 20px;
+}
+
+.text-gray {
+    color: #aaa;
+}
+
+.badge-margin-left-240{
+    margin-left: 240px;
+}
